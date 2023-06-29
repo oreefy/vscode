@@ -1,0 +1,28 @@
+{
+  "name": "vscode",
+  "version": "1.0.0",
+  "description": "Visual Studio Code standard setup of Oreefy",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oreefy/vscode.git"
+  },
+  "keywords": [
+    "vscode",
+    "oreefy vscode"
+  ],
+  "author": "Md. Tahmidullah",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/oreefy/vscode/issues"
+  },
+  "homepage": "https://github.com/oreefy/vscode#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
