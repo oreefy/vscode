@@ -1,40 +1,42 @@
 # Standard Visual Studio Code setup
 
-Welcome to [Oreefy](https://www.oreefy.com/) standard "Visual Studio Code" setup.
+Welcome to [Oreefy](https://www.oreefy.com) standard "Visual Studio Code" setup.
 
 ## Plugins
-
+- Software
+  - [Visual Studio Code](https://code.visualstudio.com)
 - Theme
-  - [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda), Select "Andromeda Colorizer"
-  - [Material](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) Icon Theme
+  - [Andromeda](vscode:extension/EliverLara.andromeda), Select "Andromeda Colorizer"
+  - [Material](vscode:extension/PKief.material-icon-theme) Icon Theme
 - Languages
   - HTML
-    - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-    - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+    - [HTML CSS Support](vscode:extension/ecmel.vscode-html-css)
+    - [Auto Rename Tag](vscode:extension/steoates.autoimport)
   - CSS
-    - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-    - [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
-    - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+    - [IntelliSense for CSS class names in HTML](vscode:extension/Zignd.html-css-class-completion)
+    - [colorize](vscode:extension/kamikillerto.vscode-colorize)
+    - [Tailwind CSS IntelliSense](vscode:extension/bradlc.vscode-tailwindcss)
   - JavaScript
-    - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-    - [Bundle Size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size)
+    - [NodeJs](https://nodejs.org/en)
+    - [npm Intellisense](vscode:extension/christian-kohler.npm-intellisense)
+    - [Bundle Size](vscode:extension/ambar.bundle-size)
   - TypeScript
-    - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+    - [Auto Import](vscode:extension/steoates.autoimport)
 - Framework (NextJs)
-  - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets), Read [Docs](https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md)
+  - [ES7+ React/Redux/React-Native snippets](vscode:extension/dsznajder.es7-react-js-snippets), Read [Docs](https://github.com/ults-io/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md)
 - Database
-  - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
+  - [Prisma](vscode:extension/Prisma.prisma)
 - Font
   - Operator Mono Medium
-- [Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
-- [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](vscode:extension/TabNine.tabnine-vscode)
+- [ESLint](vscode:extension/dbaeumer.vscode-eslint)
+- [Live Preview](vscode:extension/ms-vscode.live-server)
+- [Live Server](vscode:extension/ritwickdey.LiveServer)
+- [Path Autocomplete](vscode:extension/ionutvmi.path-autocomplete)
+- [Prettier - Code formatter](vscode:extension/esbenp.prettier-vscode)
+- [Thunder Client](vscode:extension/rangav.vscode-thunder-client)
+- [Lorem ipsum](vscode:extension/Tyriar.lorem-ipsum)
+- [Better Comments](vscode:extension/aaron-bond.better-comments)
 
 ## JSON Settings
 
